@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pulaipieci.arno.app/sitemap.xml
